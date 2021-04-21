@@ -1,3 +1,6 @@
+Testing GitHub actions with Docker Hub
+https://docs.docker.com/ci-cd/github-actions/
+
 # docker-whale
 
 Run me : `docker run -p80:80 ushamandya/whale-example`
